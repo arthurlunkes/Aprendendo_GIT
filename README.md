@@ -1,3 +1,1 @@
 # Aprendendo GIT
-
-## Repositório LOCAL
