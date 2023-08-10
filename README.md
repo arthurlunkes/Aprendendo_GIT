@@ -12,6 +12,14 @@ As ramificações(ou branchs), servem como se fosse um histórico de alteraçõe
 
 ## Alguns comandos e para que servem
 
+- O comando abaixo insere os arquivos na stage:
+
+```bash
+
+git add . OR git add filename.extesion
+
+```
+
 - O comando abaixo serve para contar os commits:
 
 ```bash
@@ -25,5 +33,12 @@ git rev-list --count HEAD
 ```bash
 
 git log --oneline
+
+```
+- 
+
+```bash
+
+git checkout //terminar código
 
 ```
